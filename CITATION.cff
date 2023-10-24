@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: qualitative_analysis_of_multiple_variables
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Miriam
+    family-names: Muñoz-Lapeira
+    email: miriam.munoz@irta.cat
+    affiliation: 'Food Safety and Functionality Program, IRTA'
+    orcid: 'https://orcid.org/0009-0006-2553-2339'
+repository-code: 'https://github.com/mmlapeira2/Useful_R_scripts'
+abstract: >-
+  This repository stores useful R scripts for general data
+  analysis.
